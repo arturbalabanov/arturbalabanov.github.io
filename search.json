@@ -1,0 +1,27 @@
+[
+	
+		{
+		  "title"      : "Welcome to Jekyll!",
+		  "category"   : "",
+		  "url"        : "http://arturbalabanov.github.io/jekyll/update/2014/06/16/welcome-to-jekyll.html",
+		  "date"       : "2014-06-16 20:57:37 UTC",
+		  "shortdate"  : "June 16, 2014"
+		} ,
+	
+		{
+		  "title"      : "Yo Jekyll!",
+		  "category"   : "",
+		  "url"        : "http://arturbalabanov.github.io/jekyll/update/2014/06/16/yo-jekyllrb.html",
+		  "date"       : "2014-06-16 00:00:00 +0300",
+		  "shortdate"  : "June 16, 2014"
+		} ,
+	
+		{
+		  "title"      : "Test post!",
+		  "category"   : "",
+		  "url"        : "http://arturbalabanov.github.io/jekyll/update/2014/06/16/test-first-post.html",
+		  "date"       : "2014-06-16 00:00:00 +0300",
+		  "shortdate"  : "June 16, 2014"
+		} 
+	
+]
