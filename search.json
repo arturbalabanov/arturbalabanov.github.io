@@ -1,14 +1,6 @@
 [
 	
 		{
-		  "title"      : "Lucid dreams",
-		  "category"   : "",
-      "url"        : "/lucid-dreams/",
-		  "date"       : "2014-07-02 16:15:00 UTC",
-		  "shortdate"  : "July 02, 2014"
-		} ,
-	
-		{
 		  "title"      : "Welcome to Jekyll!",
 		  "category"   : "",
       "url"        : "/welcome-to-jekyll/",
