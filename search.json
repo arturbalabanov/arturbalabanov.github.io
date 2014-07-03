@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Lucid dreams",
 		  "category"   : "",
-      "url"        : "/lucid-dreams",
+      "url"        : "/lucid-dreams/",
 		  "date"       : "2014-07-02 16:15:00 UTC",
 		  "shortdate"  : "July 02, 2014"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Welcome to Jekyll!",
 		  "category"   : "",
-      "url"        : "/welcome-to-jekyll",
+      "url"        : "/welcome-to-jekyll/",
 		  "date"       : "2014-06-16 20:57:37 UTC",
 		  "shortdate"  : "June 16, 2014"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Yo Jekyll!",
 		  "category"   : "",
-      "url"        : "/yo-jekyllrb",
+      "url"        : "/yo-jekyllrb/",
 		  "date"       : "2014-06-16 00:00:00 +0300",
 		  "shortdate"  : "June 16, 2014"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Test post!",
 		  "category"   : "",
-      "url"        : "/test-first-post",
+      "url"        : "/test-first-post/",
 		  "date"       : "2014-06-16 00:00:00 +0300",
 		  "shortdate"  : "June 16, 2014"
 		} 
